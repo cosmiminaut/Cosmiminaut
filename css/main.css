@@ -96,6 +96,8 @@ a:hover{
  hr{
 	margin: 0;
  }
-
+ hint:hover::aften{
+	content:attr(data-title);
+ }
 
 
