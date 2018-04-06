@@ -98,6 +98,12 @@ a:hover{
  }
  hint:hover::aften{
 	content:attr(data-title);
+	position:absolute;
+	z-index:1;
+	background: black;
+	font-family:arial, sans-serif;
+	
+	 
  }
 
 
