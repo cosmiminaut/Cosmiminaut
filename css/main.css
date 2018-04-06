@@ -96,17 +96,5 @@ a:hover{
  hr{
 	margin: 0;
  }
- hint:hover::aften{
-	content:attr(data-title);
-	position:absolute;
-	left:20%; top:30%;
-	z-index:1;
-	background: black;
-	font-family:arial, sans-serif;
-	font-size:11px;
-	padding:5px 10px;
-	border 1px solid #333;
-	 
- }
-
+ 
 
