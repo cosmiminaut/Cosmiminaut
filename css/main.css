@@ -10,12 +10,15 @@ h1,h2{
 	/* padding: 13px;	 */
 	text-transform: uppercase;
 	text-align: center;
-	vertical-align: middle;  
+	vertical-align: middle;
+	
+
 }
 h2{
 	text-align:start !important;
+	font-size: 35px;
 }
-h3{
+h3,h4{
 	color: white;	 
 	text-transform: uppercase; 
 	/* text-align: center;  */
@@ -23,7 +26,13 @@ h3{
 	margin: auto;
 	padding-top: 6px;
 	text-decoration:none;
-		 
+}
+h4{
+	float: right;
+	width:420px;
+	border-left:white solid 2px;
+	padding-left:20px ;
+	padding-right:20px;
 }
 article{
 	 margin-top: 100px; 
@@ -95,6 +104,7 @@ a:hover{
  }
  hr{
 	margin: 0;
- }
- 
+}
+
+
 
